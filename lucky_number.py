@@ -20,4 +20,4 @@ if __name__ == '__main__':
     """
     python lucky_number.py "0000000000000000000b99fea8fac0fac12f045a95a07736f639a51dd70c47ff" 1000 10000 10
     """
-    main(sys.argv[1], int(sys.argv[2]), int(sys.argv[3]), int(sys.argv[4]))
+    main(sys.argv[1], int(sys.argv[2]), int(sys.argv[4]))
